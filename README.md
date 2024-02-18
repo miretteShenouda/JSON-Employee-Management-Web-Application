@@ -47,6 +47,22 @@ Open your web browser and navigate to http://localhost:3000 to access the applic
 
 <h2>Some screenshots of the website</h2>
 
+<div>
+  
+  ### form
+  ![form](https://github.com/miretteShenouda/JSON-Employee-Management-Web-Application/assets/102439028/9e695e3e-6fdb-4e7e-a955-f59ffbbceb1d)
 
+  ### Adding languages
+  ![adding languages](https://github.com/miretteShenouda/JSON-Employee-Management-Web-Application/assets/102439028/01cb56d6-13bc-468e-b1e0-0961e3d9f7bb)
+
+  ### To delete or search for a student 
+  ![delete or search for student](https://github.com/miretteShenouda/JSON-Employee-Management-Web-Application/assets/102439028/05d058f1-0e61-476a-b743-1bd4d8969b15)
+### To sort students
+![sort students](https://github.com/miretteShenouda/JSON-Employee-Management-Web-Application/assets/102439028/67a94e58-e47a-484e-93e1-1f82ccc333a8)
+
+### Search results
+![search results](https://github.com/miretteShenouda/JSON-Employee-Management-Web-Application/assets/102439028/ff7ae939-d8f4-4136-8df9-089804d1c082)
+
+</div>
 
 
